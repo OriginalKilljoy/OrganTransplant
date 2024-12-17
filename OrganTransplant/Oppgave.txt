@@ -1,0 +1,18 @@
+﻿Det har vært en akutt ulykke og Bernt ligger på sykehuset.
+
+Han trenger en ny Nyre!
+
+Heldigvis har fetteren hans Kåre to sunne Nyrer, og det er utført tester som tilsier at Kåre kan gi bort en av nyrene til Bernt og det vil være en høy suksessrate for overlevelse!
+
+Hjelp Bernt med å overleve!
+
+Finn ut hva vi kan lage som objekter, og hva man kan lage som metoder i dette tilfellet.
+
+Lag gjerne Console.WriteLine() - statements i koden slik at man ser hva som skjer!
+
+Objekter:
+- Nyre
+- Menneske
+
+Metoder:
+- Gi nyre
